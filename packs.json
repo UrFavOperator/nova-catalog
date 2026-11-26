@@ -1,1 +1,234 @@
-{}
+{
+ "WP9A": {
+  "v": 1,
+  "title": "KIM's pack",
+  "by": "KIM",
+  "mods": [
+   {
+    "s": "github",
+    "n": "A-37B Dragonfly Uruguay (Beta)",
+    "v": "v0.1.1",
+    "o": "Braianvladzgrid",
+    "r": "a37b-dragonfly-uruguay-nuclear-option"
+   },
+   {
+    "s": "github",
+    "n": "Aryx Naval Expansion / NAVEX",
+    "v": "1.0.4",
+    "o": "Aryx3D",
+    "r": "Aryx-Naval-Expansion"
+   },
+   {
+    "s": "github",
+    "n": "Aryx Weaponry Pack",
+    "v": "1.1.1",
+    "o": "Aryx3D",
+    "r": "AryxWeaponryPack"
+   },
+   {
+    "s": "github",
+    "n": "Aryx-F-22E",
+    "v": "1.0.5",
+    "o": "Aryx3D",
+    "r": "Aryx_F22E_StrikeRaptor"
+   },
+   {
+    "s": "github",
+    "n": "Aryx-F-99-Shrike",
+    "v": "1.1.4",
+    "o": "Aryx3D",
+    "r": "Aryx-s-F-99-Shrike"
+   },
+   {
+    "s": "github",
+    "n": "Aryx-F16M",
+    "v": "1.2.5",
+    "o": "Aryx3D",
+    "r": "Aryx-F-16M"
+   },
+   {
+    "s": "github",
+    "n": "Aryx-MC260-Chimera",
+    "v": "",
+    "o": "Aryx3D",
+    "r": "Aryx-MC260-Chimera"
+   },
+   {
+    "s": "github",
+    "n": "Aryx-s-FS-41-Eclipse",
+    "v": "1.1.9",
+    "o": "Aryx3D",
+    "r": "Aryx-s-FS-41-Eclipse"
+   },
+   {
+    "s": "github",
+    "n": "BepInEx Configuration Manager",
+    "v": "",
+    "o": "BepInEx",
+    "r": "BepInEx.ConfigurationManager"
+   },
+   {
+    "s": "github",
+    "n": "Blueprinter",
+    "v": "2.1.1",
+    "o": "nikkorap",
+    "r": "NOBlueprinter-Releases"
+   },
+   {
+    "s": "github",
+    "n": "F-4E Phantom II",
+    "v": "1.1.5",
+    "o": "Braianvladzgrid",
+    "r": "F4E-Phantom-NuclearOption"
+   },
+   {
+    "s": "github",
+    "n": "FS-3 Ternion",
+    "v": "",
+    "o": "Combat787",
+    "r": "ternion"
+   },
+   {
+    "s": "github",
+    "n": "Heavy Aircraft Hangar",
+    "v": "0.2.0",
+    "o": "IornMan1213",
+    "r": "NO-HeavyHangar"
+   },
+   {
+    "s": "github",
+    "n": "Heritage Pairs",
+    "v": "1.9.12",
+    "o": "riseofthewolfremake-lgtm",
+    "r": "HeritagePairs-NuclearOption"
+   },
+   {
+    "s": "github",
+    "n": "Kellys Client Effects",
+    "v": "v0.8.7",
+    "o": "Kelly-D-Ripper",
+    "r": "Kellys-Client-Effects"
+   },
+   {
+    "s": "github",
+    "n": "KR-33 Agni",
+    "v": "1.0.1",
+    "o": "phoenix15099",
+    "r": "KR-33"
+   },
+   {
+    "s": "github",
+    "n": "MiG-21K Koschei",
+    "v": "1.0.1",
+    "o": "KyleisRed",
+    "r": "MiG-21K-Koschei"
+   },
+   {
+    "s": "github",
+    "n": "MiG-29 Fulcrum",
+    "v": "",
+    "o": "IornMan1213",
+    "r": "MiG29-NuclearOption"
+   },
+   {
+    "s": "github",
+    "n": "MiG-29SMT",
+    "v": "",
+    "o": "IornMan1213",
+    "r": "MiG29SMT-NuclearOption"
+   },
+   {
+    "s": "github",
+    "n": "MRB-100 Centurion",
+    "v": "v0.1.3",
+    "o": "baanish",
+    "r": "MRB-100-Centurion"
+   },
+   {
+    "s": "github",
+    "n": "Naval Power",
+    "v": "1.1.0",
+    "o": "ghost225",
+    "r": "NOnaval_power"
+   },
+   {
+    "s": "github",
+    "n": "NO M2KD",
+    "v": "0.30.4",
+    "o": "paulleonard1314-lang",
+    "r": "NO-M2KD"
+   },
+   {
+    "s": "github",
+    "n": "NO Mirrors",
+    "v": "",
+    "o": "IornMan1213",
+    "r": "NuclearOption-Mirrors"
+   },
+   {
+    "s": "github",
+    "n": "NO TactiTools",
+    "v": "",
+    "o": "clumzy",
+    "r": "NO_Tactitools"
+   },
+   {
+    "s": "github",
+    "n": "NoAtmoFX",
+    "v": "1.4.0",
+    "o": "paulleonard1314-lang",
+    "r": "NoAtmoFX"
+   },
+   {
+    "s": "github",
+    "n": "NOAutopilot",
+    "v": "",
+    "o": "qwerty1423",
+    "r": "no-autopilot-mod"
+   },
+   {
+    "s": "github",
+    "n": "NOCustomMaps",
+    "v": "1.2.1",
+    "o": "BatongMaster",
+    "r": "NOCustomMaps"
+   },
+   {
+    "s": "github",
+    "n": "Nuclear Replay",
+    "v": "",
+    "o": "Talamander",
+    "r": "nuclear-replay"
+   },
+   {
+    "s": "github",
+    "n": "P220 Primrose",
+    "v": "",
+    "o": "NicksSoftwareFun",
+    "r": "Nuclear-Option-P220-Primrose-Aircraft-Mod"
+   },
+   {
+    "s": "github",
+    "n": "PB-22 Trident",
+    "v": "1.2.2",
+    "o": "NicksSoftwareFun",
+    "r": "Nuclear-Option-PB-22-Trident-Aircraft-Mod"
+   },
+   {
+    "s": "github",
+    "n": "Quartermaster",
+    "v": "",
+    "o": "mosdef31",
+    "r": "NO-Quartermaster"
+   },
+   {
+    "s": "github",
+    "n": "Su-30VXN Gandiva",
+    "v": "1.0.1.1",
+    "o": "KyleisRed",
+    "r": "Su-30VXN-Gandiva"
+   }
+  ],
+  "published_at": 1795733525
+ }
+}
